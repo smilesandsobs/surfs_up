@@ -7,7 +7,7 @@ In order to get investor backing from W. Avy for a Surf and Shake shop which sel
 ## Resources: 
 
 -Data Souce: hawaii.sqlite        
--Software: Python 3.7.6, Jupyter Notebook
+-Software: SQLlite, Python 3.7.6, Jupyter Notebook
 
 
 ## Results 
@@ -20,3 +20,9 @@ In order to get investor backing from W. Avy for a Surf and Shake shop which sel
 
 #### Summary Statistics for December 
 ![This is an image](https://github.com/smilesandsobs/surfs_up/blob/main/Images/Summary%20Statistics%20-December.png)
+
+1. The average temperature in Oahu in June is 74.9 and in December is 71.0
+2. The high temperature in Oahu in June is 85 and in December is 83
+3. The low temperature in Oahu in June is 64 and in December is 56 
+
+
